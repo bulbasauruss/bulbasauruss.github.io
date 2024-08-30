@@ -36,7 +36,7 @@
             padding: 10px;
             border-radius: 5px;
         }
-        .chatbot {
+        .chatbot  {
             margin-top: 20px;
             padding: 20px;
             background-color: #e8f0fe;
